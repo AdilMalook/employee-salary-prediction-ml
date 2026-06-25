@@ -1,0 +1,201 @@
+Age,Education,Experience,JobRole,WorkingHours,Salary
+59,Bachelor,35,Data Scientist,44,218709.69
+49,Master,26,Data Scientist,35,184042.76
+35,High School,13,Data Scientist,51,105870.24
+28,Bachelor,5,Accountant,46,83068.35
+41,High School,14,Accountant,59,114634.93
+59,Bachelor,35,Software Engineer,53,221855.32
+39,High School,11,Software Engineer,35,95739.75
+43,Master,21,Data Scientist,48,170296.09
+31,Bachelor,8,Manager,59,136966.02
+31,PhD,2,Data Analyst,54,100433.77
+44,High School,17,Accountant,31,106975.16
+56,Bachelor,32,Manager,44,222206.13
+44,High School,19,HR,40,122348.07
+23,PhD,1,Accountant,37,84491.07
+42,Master,14,Accountant,55,125676.2
+22,Bachelor,0,Software Engineer,48,65571.75
+44,Master,15,Data Analyst,42,145756.2
+50,Master,25,Data Analyst,41,185863.36
+58,Bachelor,29,HR,34,182645.49
+22,Bachelor,0,HR,35,35910.27
+41,High School,16,Accountant,55,108083.16
+53,High School,24,Data Scientist,51,168593.7
+32,Master,4,Software Engineer,33,86245.8
+42,PhD,19,Software Engineer,48,191053.53
+45,Bachelor,24,Accountant,49,144860.28
+47,Bachelor,24,Manager,30,184236.4
+48,Bachelor,24,Data Scientist,49,177135.94
+36,Master,14,Accountant,46,123184.95
+35,Master,14,Data Scientist,41,135503.16
+23,Master,0,Data Scientist,44,69161.15
+57,Master,29,Data Scientist,30,211085.36
+27,Bachelor,0,Accountant,55,54586.54
+41,High School,16,Software Engineer,43,110480.31
+29,High School,8,Software Engineer,35,69639.37
+59,Master,32,Data Scientist,34,217713.72
+38,Bachelor,11,Manager,59,144252.17
+24,High School,0,Data Analyst,40,34923.27
+45,High School,22,Accountant,60,133974.86
+34,Master,5,Data Analyst,33,78334.06
+29,High School,8,Manager,42,95018.21
+46,High School,25,Accountant,40,125924.91
+22,Bachelor,0,Data Scientist,32,59765.64
+40,Master,11,Software Engineer,30,113652.52
+48,Master,22,Data Analyst,35,163569.65
+27,High School,4,HR,47,69991.65
+28,Master,7,HR,53,106312.52
+55,High School,31,Manager,39,196748.89
+34,Bachelor,5,Data Scientist,34,75047.79
+37,Master,14,Data Analyst,52,152786.88
+56,Bachelor,27,Data Scientist,39,186373.75
+24,Master,0,Data Analyst,41,62711.43
+22,Master,0,Manager,31,79407
+26,Bachelor,3,Manager,42,86284.68
+24,High School,0,HR,37,30045.12
+49,Bachelor,24,Data Scientist,31,163010.7
+38,Bachelor,15,Accountant,49,113525.13
+46,High School,17,HR,30,103237.97
+54,PhD,30,Data Scientist,60,242652.6
+30,Bachelor,5,HR,34,56197.23
+56,Master,32,Accountant,38,203651.44
+34,Bachelor,9,Software Engineer,46,99060.18
+51,Master,24,Software Engineer,38,190831.94
+35,Bachelor,6,Software Engineer,40,62792.24
+28,Bachelor,1,Software Engineer,44,72632.05
+34,Bachelor,9,Data Analyst,53,105268.68
+43,High School,16,Software Engineer,35,99412.88
+41,Master,16,Accountant,52,136458.5
+36,Bachelor,13,Manager,32,120728.47
+38,High School,11,Manager,59,109639.91
+44,Bachelor,22,Data Analyst,60,151777.47
+46,High School,17,Software Engineer,46,118215.39
+45,PhD,24,Software Engineer,34,210418.16
+49,PhD,23,Software Engineer,59,214385.43
+35,PhD,8,HR,57,134372.44
+21,Bachelor,0,Data Scientist,41,71373.38
+45,High School,16,HR,47,100167.59
+27,PhD,5,Data Scientist,43,120103.84
+29,Bachelor,7,Software Engineer,50,98415
+44,PhD,19,Software Engineer,53,175522.98
+21,PhD,0,HR,40,83703.99
+28,Master,2,HR,38,63877.4
+44,Bachelor,21,Data Scientist,31,151101.43
+31,Bachelor,3,Manager,41,89787.68
+37,Master,16,Data Scientist,32,150754.11
+28,Bachelor,2,HR,32,44312.27
+55,High School,31,Accountant,30,177774.64
+55,Bachelor,34,HR,37,185551.49
+53,PhD,26,Accountant,51,208527.48
+25,Master,0,Data Analyst,57,76944.81
+59,Bachelor,35,HR,58,208823.63
+48,High School,24,Data Analyst,37,145809.06
+27,Bachelor,1,Manager,40,64491.09
+29,PhD,6,Data Scientist,38,133192.22
+28,High School,2,Accountant,34,38920.78
+32,Bachelor,5,Data Scientist,43,85118.22
+54,Master,31,Data Analyst,57,220092.07
+53,Master,26,Accountant,59,182765.25
+43,Master,20,Data Scientist,32,153932.31
+44,Master,22,HR,50,150546.97
+57,Bachelor,33,Software Engineer,34,206748.08
+55,Bachelor,27,Data Analyst,34,154656.57
+42,Master,13,Data Scientist,48,157338.35
+47,Master,20,Data Analyst,56,144944.56
+55,Master,34,Data Analyst,43,230371.65
+21,PhD,0,Accountant,55,90688.14
+55,Bachelor,26,Accountant,59,172626.3
+57,Bachelor,35,Software Engineer,33,205940.65
+34,Master,5,HR,54,92093.09
+23,Bachelor,0,Data Analyst,42,47898.92
+21,Master,0,Data Scientist,39,88226.42
+25,Master,0,Manager,54,94313.82
+46,Master,21,Data Analyst,47,161902.41
+34,Bachelor,8,Data Analyst,37,78291.1
+59,Bachelor,34,Software Engineer,37,207744.44
+47,High School,21,HR,36,127562.41
+29,Bachelor,4,Manager,37,72518.65
+35,High School,10,Accountant,43,71014.52
+35,Bachelor,11,Accountant,48,105246.11
+46,Bachelor,23,Data Scientist,58,180666.92
+33,Bachelor,10,Manager,35,110528.13
+52,Bachelor,28,Accountant,30,165147.47
+59,High School,30,Data Scientist,52,199980.65
+52,High School,30,HR,60,175681.92
+24,Master,0,Data Scientist,44,76173.56
+50,Bachelor,29,Accountant,30,171066.76
+57,High School,35,Software Engineer,54,205073.02
+43,Bachelor,18,Software Engineer,46,144866.02
+59,Master,33,Software Engineer,30,200879.33
+35,High School,9,Accountant,44,86133.25
+49,Bachelor,26,Software Engineer,52,184980.78
+56,High School,29,Manager,31,187148.24
+33,High School,4,HR,43,60661.53
+52,Bachelor,24,Data Scientist,50,192323.8
+27,Bachelor,1,Data Scientist,37,75814.96
+42,Bachelor,14,Accountant,37,91473.01
+48,Master,23,Software Engineer,48,170063.38
+22,PhD,0,Software Engineer,36,84601.45
+26,Bachelor,2,Data Analyst,48,61008.73
+48,Bachelor,20,HR,35,134141.27
+48,Master,26,Manager,35,193194.05
+40,Bachelor,15,Data Scientist,32,129194.13
+50,Bachelor,21,Data Analyst,36,133056.94
+31,High School,7,Data Analyst,48,68407.86
+48,High School,22,Accountant,37,120946.71
+45,PhD,24,Data Scientist,39,200014.13
+59,Master,30,Accountant,49,189586.52
+53,Master,32,Manager,44,223593.01
+21,Bachelor,0,Data Analyst,44,57829.13
+47,High School,23,Data Analyst,58,143704.81
+33,High School,10,HR,30,93059.06
+23,Bachelor,0,Manager,49,79346.54
+59,Bachelor,35,Data Analyst,59,217378.69
+26,Master,3,Manager,36,89233.14
+28,Master,3,Data Scientist,56,108702.48
+47,Bachelor,18,Software Engineer,33,129194.9
+29,PhD,7,Data Analyst,58,125276.08
+57,Master,29,HR,35,205980.68
+53,Bachelor,31,Data Scientist,54,212131.52
+44,Bachelor,19,Manager,30,158694.19
+35,Bachelor,8,Accountant,58,86174.59
+52,High School,24,Data Scientist,34,159120.09
+52,Bachelor,31,Data Analyst,56,210266.41
+44,Master,18,Manager,52,168184.26
+32,High School,11,Software Engineer,30,104999.59
+59,High School,35,Data Scientist,59,229562.02
+22,High School,1,Data Analyst,33,32800.27
+23,High School,0,HR,51,44659.26
+57,Master,28,Accountant,31,188380.44
+37,Master,11,Manager,39,138874.48
+22,Bachelor,1,Data Scientist,34,53338.2
+22,High School,1,Data Scientist,56,63282.9
+48,Bachelor,26,Software Engineer,39,171419.85
+43,Bachelor,14,Software Engineer,30,113404.53
+57,High School,34,HR,51,197565.38
+52,Bachelor,31,Accountant,35,182921.61
+53,Bachelor,28,HR,42,159517.25
+21,Bachelor,0,Data Analyst,60,62041.58
+39,Bachelor,13,Data Analyst,44,112784.69
+22,High School,1,HR,33,37778.32
+46,Bachelor,21,Accountant,42,149346.25
+52,Bachelor,27,HR,53,178971.38
+26,Bachelor,0,Accountant,49,54073.44
+52,Master,29,Accountant,53,197738.67
+24,Master,0,Manager,44,74112.31
+31,High School,4,Accountant,58,67236.95
+37,High School,12,Software Engineer,37,100861.5
+58,Bachelor,33,Accountant,34,192072.63
+44,High School,19,Accountant,58,121086.01
+25,Bachelor,2,Accountant,44,47751.55
+54,PhD,33,Data Analyst,33,234725.22
+26,Bachelor,1,Software Engineer,41,61783.56
+42,Bachelor,13,Software Engineer,42,122152.01
+31,Bachelor,10,HR,31,82826.55
+36,Bachelor,13,Manager,56,138338.05
+53,Bachelor,29,Accountant,60,195006.27
+29,PhD,8,Data Scientist,48,136671.64
+26,Bachelor,5,Manager,48,98068.97
+36,PhD,8,Manager,33,133101.8
+49,PhD,27,Software Engineer,33,205824.03
+23,High School,0,Manager,55,66526.62

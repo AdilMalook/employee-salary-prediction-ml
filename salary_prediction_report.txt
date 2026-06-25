@@ -1,0 +1,10 @@
+
+Employee Salary Prediction Report
+
+Age: 30
+Education: Master
+Experience: 3
+Job Role: Data Analyst
+Working Hours: 40
+
+Predicted Salary: $77,013.92
